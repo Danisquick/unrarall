@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:bionic
 
 # Install
 #RUN apk add --no-cache unrar cksfv bash cfv p7zip-full p7zip-rar
